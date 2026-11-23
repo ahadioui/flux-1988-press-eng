@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1988 Sanctions Committee: Press Releases</title>
+    <link>https://main.un.org/securitycouncil/en/sanctions/1988/press-releases</link>
+    <description>Press releases on changes to the 1988 Sanctions List of the Security Council Committee established pursuant to resolution 1988 (2011).</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ahadioui.github.io/flux-1718/flux-1988-press-en.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Security Council Sanctions Committee Established Pursuant to Resolution 1988 (2011) Amends Five Names on Its Sanctions List</title>
+      <link>https://press.un.org/en/2026/sc16494.doc.htm</link>
+      <guid isPermaLink="false">SC/16494</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <description>SC/16494. On 29 October 2026, the 1988 Committee amended five individual entries on its 1988 Sanctions List: TAi.007 (Abdul Latif Mansoor), TAi.024 (Abdul Ghani Baradar), TAi.026 (Amir Khan Muttaqi), TAi.082 (Abdul-Haq Wasiq) and TAi.093 (Khairullah Khairkhwa). The measures are an assets freeze, a travel ban and an arms embargo under resolution 2816 (2026). The page does not show which fields changed; see the official Sanctions List for the exact edits. Updated list: https://main.un.org/securitycouncil/en/sanctions/1988/materials</description>
+    </item>
+
+  </channel>
+</rss>
